@@ -1,4 +1,7 @@
-require "active_merchant_square/version"
+# frozen_string_literal: true
+
+require 'active_merchant_square/version'
+require 'active_merchant/billing/gateways/square'
 
 module ActiveMerchantSquare
   class Error < StandardError; end
