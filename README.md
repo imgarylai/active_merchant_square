@@ -1,4 +1,4 @@
-# ActiveMerchantSquare [![Build Status](https://travis-ci.com/machiyami/active_merchant_square.svg?branch=master)](https://travis-ci.com/machiyami/active_merchant_square)
+# ActiveMerchantSquare [![Build Status](https://travis-ci.com/imgarylai/active_merchant_square.svg?branch=master)](https://travis-ci.com/imgarylai/active_merchant_square)
 
 Use square gateway with active merchant.  
 
@@ -7,7 +7,7 @@ Use square gateway with active merchant.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'active_merchant_square', github: 'machiyami/active_merchant_square', branch: 'master'
+gem 'active_merchant_square', github: 'imgarylai/active_merchant_square', branch: 'master'
 ```
 
 And then execute:
