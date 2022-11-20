@@ -7,5 +7,5 @@ gemspec
 
 gem 'activemerchant'
 gem 'mocha', '~> 1'
-gem 'rake', '~> 12.0'
+gem 'rake', '~> 13.0'
 gem 'test-unit', '~> 3'
