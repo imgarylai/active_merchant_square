@@ -6,6 +6,6 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'activemerchant'
-gem 'mocha', '~> 1'
+gem 'mocha', '~> 2'
 gem 'rake', '~> 12.0'
 gem 'test-unit', '~> 3'
